@@ -100,22 +100,27 @@
 									</p>
 									<div class="features">
 											<article>
-												<a href="images/cvo_map.jpg" class="image"><img src="images/cvo_map.jpg" alt="" /></a>
+												<a href="images/cvo.png" class="image"><img src="images/cvo.png" alt="" /></a>
 												
 												<div class="inner">
 													<h4>Continuous Visual Odometry</h4>
 													<p>
-
+														We develop a fundamentally novel formulation of the sensor registration problem, Continuous Sensor Registration, that is continuous and models the action of an arbitrary Lie group on any smooth manifold. 
+														The continuity is achieved by treating the output of a given sensor as a function that lives on a reproducing kernel Hilbert space (RKHS). The outputs of two sensors are registered by integrating the flow in the Lie algebra and minimizing the norm of the difference between the two functions.
+														
+														Continuous Visual Odometry (CVO) is a special case of the Continuous Sensor Registration that takes in images from a commonly used camera, either stereo or monocular, as input and estimate the trajectory by accumulating the transformation matrix found between each frame.
+														<a href="https://github.com/MaaniGhaffari/cvo-rgbd">[Code]</a>
 													</p>
+													
 												</div>
-												<a href="images/cvo_traj.png" class="image"><img src="images/cvo_traj.png" alt="" /></a>
+												<!-- <a href="images/cvo_traj.png" class="image"><img src="images/cvo_traj.png" alt="" /></a> -->
 											</article>
 											<article>
 													<a href="images/cassie_gazebo.png" class="image"><img src="images/cassie_gazebo.png" alt="" /></a>
 													<div class="inner">
 														<h4>Simulation of Bipedal Robot with Camera and Lidar Sensor</h4>
 														<p>
-
+															We built up a simulation environment in Gazebo and Mujoco that allowed us to test control and perception systems for the bipedal robot, Cassie Blue. This project aims to help increase the variety and amount of environments in which we can test Cassie’s performance. 
 														</p>
 													</div>
 											</article>
@@ -124,20 +129,19 @@
 												<div class="inner">
 													<h4>Digital Hydraulic Body-Powered Exoskeletons for Stroke Rehabilitation</h4>
 													<p>
-
+														Traditional exoskeletons are usually heavy, non-backdrivable and the portability is often limited. This project aims to develop an alternative style of exoskeleton for stroke rehabilitation, in which power can be routed from one limb to another for assistance and rehabilitation via a digital hydraulic transmission.
 													</p>
 												</div>
 											</article>
 											<article>
-												<a href="images/colonoscopy_1.png" class="image"><img src="images/colonoscopy_1.png" alt="" /></a>
-												
+												<a href="images/colonoscopy_3.png" class="image"><img src="images/colonoscopy_3.png" alt="" /></a>
 												<div class="inner">
 													<h4>Automated Colonoscopy Assistance</h4>
 													<p>
-
+														In colonoscopy procedures, the examining device can accidentally pierce the colon, which is known as perforation and has an incident rate of 0.2%. The goal of this project is to prevent the tip of the colonoscope from contacting the intestinal wall to reduce the perforation rate. We used the video feed from the colonoscopy device and implemented a computer vision algorithm to track the center of the colon in real-time and applied a PID controller to achieve the goal.
 													</p>
 												</div>
-												<a href="images/colonoscopy_2.png" class="image"><img src="images/colonoscopy_2.png" alt="" /></a>
+												<!-- <a href="images/colonoscopy_2.png" class="image"><img src="images/colonoscopy_2.png" alt="" /></a> -->
 											</article>
 											<!-- <article>
 												<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
