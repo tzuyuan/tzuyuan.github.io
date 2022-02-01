@@ -117,7 +117,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4a90ca !important;
+			color: #2a2a2a !important;
 		}
 
 	strong, b {
@@ -131,6 +131,10 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2.25em 0;
+	}
+
+	p_news {
+		margin: 0 0 2em 0;
 	}
 
 	p1 {
@@ -1795,7 +1799,7 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #4a90ca;
+		color: #2a2a2a;
 		font-size: 3.5em;
 	}
 
@@ -1858,7 +1862,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4a90ca;
+			border-color: #2a2a2a;
 		}
 
 	select {
@@ -1963,7 +1967,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4a90ca;
+			border-color: #2a2a2a;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2413,7 +2417,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4a90ca;
+				background: #2a2a2a;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2629,7 +2633,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4a90ca;
+			background-color: #2a2a2a;
 			color: #ffffff !important;
 		}
 
@@ -2637,14 +2641,14 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #5e9dd0;
+				background-color: #d3d3d3;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #3979c2;
+				background-color: #bbbbbb;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2665,8 +2669,8 @@ input, select, textarea {
 
 	.features article {
 		border-top: solid 3px #f4f4f4;
-		margin-bottom: 2.25em;
-		padding-top: 2.25em;
+		margin-bottom: 0.5em;
+		padding-top: 0.5em;
 	}
 
 		.features article:first-child {
@@ -2711,8 +2715,8 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4a90ca;
-		color: #d2e6f2;
+		background: #2a2a2a;
+		color: #f1f1f1;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2731,11 +2735,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7daea;
+			color: #f1f1f1;
 		}
 
 		#header a {
-			color: #d2e6f2;
+			color: #f1f1f1;
 		}
 
 			#header a:hover {
@@ -2762,7 +2766,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d2e4f2;
+				color: #f1f1f1;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2783,7 +2787,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #d2e6f2;
+					color: #f1f1f1;
 				}
 
 		#header > nav {
@@ -2800,7 +2804,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5c9bcf;
+					border-top: solid 2px #2a2a2a;
 					display: block;
 					padding: 0;
 				}
@@ -2819,7 +2823,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4a90ca !important;
+							color: #2a2a2a !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3087,7 +3091,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4a90ca;
+						background: #2a2a2a;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
