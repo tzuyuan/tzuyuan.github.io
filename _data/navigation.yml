@@ -1,0 +1,23 @@
+# main links links
+main:
+
+  # - title: "About Me"
+  #   url: /about/
+
+  # - title: "Research"
+  #   url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+  # - title: "Software"
+  #   url: /software/
+
+  - title: "CV"
+    url: /cv/Tzu_Yuan_Justin_cv.pdf
+    
+  # - title: "Guide"
+  #   url: /markdown/
