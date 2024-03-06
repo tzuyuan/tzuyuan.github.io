@@ -1,6 +1,6 @@
 ---
 title: "A Robust Keyframe-Based Visual SLAM for RGB-D Cameras in Challenging Scenarios"
-authors: "Xi Lin, Dingyi Sun, Tzu-Yuan Lin, Ryan M. Eustice, and Maani Ghaffari"
+authors: "Xi Lin, Yewei Huang, Dingyi Sun, Tzu-Yuan Lin, Brendan Englot, Ryan M Eustice, Maani Ghaffari"
 venue: "IEEE Access"
 year: "2023"
 status: "journal"
