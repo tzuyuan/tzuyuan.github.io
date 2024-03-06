@@ -1,7 +1,7 @@
 ---
 title: "Lie Neurons: Adjoint-Equivariant Neural Networks for Semisimple Lie Algebras"
 authors: "Tzu-Yuan Lin, Minghan Zhu, and Maani Ghaffari"
-venue: "arXiv (under review for ICLR 2024)"
+venue: "arXiv (under review for ICML 2024)"
 year: "2023"
 status: "preprint"
 arxiv: "https://arxiv.org/abs/2310.04521"
