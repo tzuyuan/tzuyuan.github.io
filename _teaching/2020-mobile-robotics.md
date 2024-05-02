@@ -1,9 +1,12 @@
 ---
-title: "ROB 530: Mobile Robotics  -- Graduate Student Instructor"
+title: "NAVARCH/EECS 568/ROB 530: Mobile Robotics: Methods and Algorithms"
 collection: teaching
+status: "teachingassistant"
 type: "Graduate course"
 permalink: /teaching/2020-mobile-robotics
 venue: "Robotics, University of Michigan"
+instructor: "Dr. Maani Ghaffari"
+image: "/images/U-M_Logo.png"
 date: 2020-01-01
 location: "MI, USA"
 ---
