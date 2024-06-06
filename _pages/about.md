@@ -16,6 +16,7 @@ Prior to my Ph.D. journey, I obtained my M.S. in [Robotics](https://robotics.umi
 If you find any of my work interesting, feel free to reach out to me at tzuyuan at umich dot edu. I'm happy to chat!
 
 ## News
+* **[06/2024]** [Chien Erh (Cynthia) Lin](https://sites.google.com/view/chien-erh-lin/) and I gave a joint Robotics Seminar at the University of Notre Dame, "It's the Same Everywhere: Leveraging Symmetry for Robot Perception and Localization."
 * **[05/2024]** I will be at CVPR, RSS, and ICML this year. If you see me in person, feel free to come and say hi! :) 
 * **[05/2024]** Our paper [Lie Neurons](https://arxiv.org/abs/2310.04521) got accepted by ICML 2024!
 * **[02/2024]** I gave a guest lecture in ROB 530: Mobile Robotics at the University of Michigan.

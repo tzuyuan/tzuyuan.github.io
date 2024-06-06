@@ -47,6 +47,9 @@
     Instructor: {{ post.instructor }}</h2>
     <h2 style="font-weight: normal; margin-top: 10px; margin-bottom: 0px;">
     {{post.description}}</h2>
+    {% if post.slides  %}
+    <h2 style="margin-top: 10px; margin-bottom: 0px;"><a style="text-decoration: none;" href="{{ post.slides }}" target="_blank">Slides <i class="fa fa-file"></i></a></h2>&nbsp;&nbsp;&nbsp;
+    {% endif %}
     
     
     {% elsif post.collection == 'publications' %}

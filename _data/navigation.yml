@@ -12,6 +12,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
     
   - title: "Software"
     url: "https://github.com/tzuyuan"
