@@ -1,8 +1,8 @@
 ---
 title: "Proprioceptive Invariant Robot State Estimation"
 authors: "Tzu-Yuan Lin, Tingjun Li, Wenzhe Tong, and Maani Ghaffari"
-venue: "arXiv"
-year: "2023"
+venue: "arXiv (Under Review)"
+year: "2025"
 status: "preprint"
 arxiv: "https://arxiv.org/abs/2311.04320"
 official_link: ""

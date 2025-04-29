@@ -11,7 +11,7 @@ author_profile: true
 <!-- This page shows selected publications. For a complete list, please visit my [Google Scholar](https://scholar.google.com/citations?user=1HY3TXcAAAAJ&hl=en&authuser=2) page. -->
 
 {% include base_path %}
-
+For the full publication list, please see my [Google scholar](https://scholar.google.com/citations?user=1HY3TXcAAAAJ&hl=en&authuser=1). :)
 {% assign show_preprints = true %}
 {% if show_preprints %}
 Preprints
